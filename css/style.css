@@ -1,0 +1,45 @@
+.wrapper {
+  max-width: 400px;
+  height: auto;
+  margin: 0 auto;
+  padding: 30px;
+  border: 5px solid rgb(137, 23, 243);
+  text-align: center;
+  background-image: url(/img/b6918a3d73d8693b18b18e5f02d991c1.jpg);
+  background-size: cover;
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgb(6, 6, 169);
+}
+.wrapper p {
+  background-color: rgba(240, 248, 255, 0.533);
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.wrapper button {
+  width: auto;
+  height: 40px;
+  border-radius: 10px;
+  background-color: rgb(255, 0, 0);
+  color: white;
+  border: 1px rgb(0, 255, 17);
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.wrapper .check input {
+  width: 50px;
+  height: 50px;
+}
+.wrapper .check P {
+  margin-bottom: 20px;
+}
+.wrapper input {
+  width: 60%;
+  height: 50px;
+  margin-top: 20px;
+  border-radius: 20px;
+  border: 3px solid rgb(255, 0, 247);
+  background-color: rgba(23, 20, 16, 0.856);
+  color: white;
+}
+
+/*# sourceMappingURL=style.css.map */
